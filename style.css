@@ -1,0 +1,17 @@
+#start, #dica1, #dica2, #recomecar
+{
+    border-radius: 15px;
+    
+}
+body{
+    float:center;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(32, 3, 39);
+    line-height: 3;
+    text-align: center;
+  }
